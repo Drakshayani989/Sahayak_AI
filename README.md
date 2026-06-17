@@ -73,14 +73,6 @@ cd backend
 cp .env.example .env
 ```
 
-**`.env`**:
-```
-MONGO_URI=mongodb://127.0.0.1:27017/sahayakai
-PORT=5000
-N8N_WEBHOOK_URL=https://your-n8n-webhook.com/chat
-JWT_SECRET=your-super-secret-key
-```
-
 ### 3. Run Development
 ```bash
 # Terminal 1: Backend
